@@ -8,11 +8,5 @@ container {
     display: flex;
     justify-content: space-around;
     width: 100%;
-    max-width: 800px; /* Adjust as needed /
-  }
-  
-  img {
-    max-width: 100%;
-    height: auto;
-    margin: 10px; / Adjust as needed */
+    max-width: 800px; 
   }
